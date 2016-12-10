@@ -10,14 +10,14 @@
   * Java(たまに)
 
 ---
-## 目的
+# 目的
 
 ---
-## 対象
+# 対象
 
 ---
 
-## アジェンダ
+# アジェンダ
 * OSSとは
 * 今年貢献したOSS
   * servo
@@ -29,14 +29,14 @@
 
 ---
 
-## OSSとは
+# OSSとは
 ---
-## 例えば
+# 例えば
 ![Slideck](images/OSS.png)
 
 ---
 
-## 今年貢献したOSS
+# 今年貢献したOSS
 * servo
 * phoenix_slime
 * atom-circle-ci
