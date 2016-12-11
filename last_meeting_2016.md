@@ -52,13 +52,21 @@
 
 ---
 # servo
+* Mozillaが開発している実験用のウェブブラウザ
+* 言語はRust
 
 ---
 # phoenix_slime
-
+* Phoenix用のHTMLのテンプレートエンジン
+  * PhoenixはElixirのフレームワーク(Rubyで言えばRailsのポジション)
+* 言語はElixir
 
 ---
 # atom-circle-ci
+* Atom(エディタ)のプラグイン
+* CircleCiのステータスを監視
+* 言語はJavaScript
+
 
 ---
 
