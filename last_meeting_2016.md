@@ -8,6 +8,7 @@
   * Ruby
   * CoffeeScript
   * Java(たまに)
+* 最近の趣味は言語処理系
 
 ---
 # 目的
