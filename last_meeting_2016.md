@@ -54,6 +54,7 @@
 ---
 # servo
 * Mozillaが開発している実験用のウェブブラウザ
+  * FirefoxのGeckoの置き換え
 * 言語はRust
 
 ---
