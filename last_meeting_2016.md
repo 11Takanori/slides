@@ -57,6 +57,9 @@
 * 言語はRust
 
 ---
+![Slideck](images/servo.png)
+
+---
 # phoenix_slime
 * Phoenix用のHTMLのテンプレートエンジン
   * PhoenixはElixirのフレームワーク(Rubyで言えばRailsのポジション)
@@ -88,7 +91,7 @@
 ---
 
 # 目標
-* 他人のプロジェクトへのコミットではなく、自分のプロジェクトを作って利用してもらう
+* 他人のプロジェクトへのcontributeではなく、自分のプロジェクトを作って利用してもらう
 
 ---
 
